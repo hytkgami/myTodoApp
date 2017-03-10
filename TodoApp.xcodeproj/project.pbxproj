@@ -15,6 +15,7 @@
 		C2A078701E7278B1002184D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2A0786E1E7278B1002184D5 /* LaunchScreen.storyboard */; };
 		C2A0787B1E7278B1002184D5 /* TodoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A0787A1E7278B1002184D5 /* TodoAppTests.swift */; };
 		C2A078861E7278B1002184D5 /* TodoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A078851E7278B1002184D5 /* TodoAppUITests.swift */; };
+		C2A078941E7278F0002184D5 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A078931E7278F0002184D5 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C2A078811E7278B1002184D5 /* TodoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A078851E7278B1002184D5 /* TodoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoAppUITests.swift; sourceTree = "<group>"; };
 		C2A078871E7278B1002184D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2A078931E7278F0002184D5 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C2A0786E1E7278B1002184D5 /* LaunchScreen.storyboard */,
 				C2A078711E7278B1002184D5 /* Info.plist */,
 				C2A078691E7278B1002184D5 /* TodoApp.xcdatamodeld */,
+				C2A078931E7278F0002184D5 /* TableViewController.swift */,
 			);
 			path = TodoApp;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				C2A078651E7278B1002184D5 /* ViewController.swift in Sources */,
 				C2A0786B1E7278B1002184D5 /* TodoApp.xcdatamodeld in Sources */,
 				C2A078631E7278B1002184D5 /* AppDelegate.swift in Sources */,
+				C2A078941E7278F0002184D5 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
